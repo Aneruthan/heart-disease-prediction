@@ -23,7 +23,7 @@ The system simulates real-time patient health data using an ESP32 (via Wokwi), t
 
 ## 🏗️ System Architecture
 
-![System Architecture](assets/architecture.png)
+![System Architecture](assets/System Architecture.png)
 
 
 ---
