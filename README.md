@@ -1,4 +1,4 @@
-# IoT-Based Heart Disease Risk Prediction System ❤️💓⚠️
+# IoT-Based Heart Disease Risk Prediction System 💓⚠️
 
 This project presents a real-time heart disease risk prediction system that integrates **IoT simulation, MQTT communication, and Machine Learning**. It demonstrates how AI can enhance IoT-based healthcare monitoring systems.
 
