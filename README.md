@@ -23,7 +23,7 @@ The system simulates real-time patient health data using an ESP32 (via Wokwi), t
 
 ## 🏗️ System Architecture
 
-![System Architecture](assets/System Architecture.png)
+![System Architecture](https://github.com/JAGS-05/heart-disease-risk-prediction/blob/main/assets/System%20Architecture.png)
 
 
 ---
