@@ -1,0 +1,67 @@
+{
+  "1": {
+    "male": 1,
+    "age": 55,
+    "education": 2,
+    "currentSmoker": 1,
+    "cigsPerDay": 15,
+    "BPMeds": 0,
+    "prevalentStroke": 0,
+    "prevalentHyp": 1,
+    "diabetes": 0,
+    "BMI": 27.5,
+    "totChol": 240
+  },
+  "2": {
+    "male": 0,
+    "age": 48,
+    "education": 3,
+    "currentSmoker": 0,
+    "cigsPerDay": 0,
+    "BPMeds": 0,
+    "prevalentStroke": 0,
+    "prevalentHyp": 0,
+    "diabetes": 0,
+    "BMI": 22.8,
+    "totChol": 190
+  },
+  "3": {
+    "male": 1,
+    "age": 60,
+    "education": 1,
+    "currentSmoker": 1,
+    "cigsPerDay": 20,
+    "BPMeds": 1,
+    "prevalentStroke": 0,
+    "prevalentHyp": 1,
+    "diabetes": 1,
+    "BMI": 30.2,
+    "totChol": 260
+  },
+  "4": {
+    "male": 0,
+    "age": 50,
+    "education": 2,
+    "currentSmoker": 0,
+    "cigsPerDay": 0,
+    "BPMeds": 0,
+    "prevalentStroke": 0,
+    "prevalentHyp": 1,
+    "diabetes": 0,
+    "BMI": 26.1,
+    "totChol": 220
+  },
+  "5": {
+    "male": 1,
+    "age": 62,
+    "education": 1,
+    "currentSmoker": 1,
+    "cigsPerDay": 18,
+    "BPMeds": 1,
+    "prevalentStroke": 0,
+    "prevalentHyp": 1,
+    "diabetes": 1,
+    "BMI": 28.5,
+    "totChol": 240
+  }
+}
